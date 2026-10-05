@@ -10,3 +10,9 @@ command:
 env:
   - name: CHATBOT_API_URL
     value: "https://chatbot-api-7474647357732356.aws.databricksapps.com"
+  - name: AZURE_OPENAI_ENDPOINT
+    value: ""
+  - name: AZURE_OPENAI_API_KEY
+    value: ""
+  - name: AZURE_OPENAI_API_VERSION
+    value: ""
