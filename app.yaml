@@ -11,8 +11,8 @@ env:
   - name: CHATBOT_API_URL
     value: "https://chatbot-api-7474647357732356.aws.databricksapps.com"
   - name: AZURE_OPENAI_ENDPOINT
-    value: ""
+    value: "https://genaimarketplace-api.kenvue.com/"
   - name: AZURE_OPENAI_API_KEY
-    value: ""
+    valueFrom: 42078e30-106d-43da-bef9-fc1152ce418c
   - name: AZURE_OPENAI_API_VERSION
-    value: ""
+    value: "2025-01-01-preview"
